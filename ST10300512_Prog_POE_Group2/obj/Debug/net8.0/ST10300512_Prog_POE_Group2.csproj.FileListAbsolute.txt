@@ -1,0 +1,15 @@
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\bin\Debug\net8.0\ST10300512_Prog_POE_Group2.exe
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\bin\Debug\net8.0\ST10300512_Prog_POE_Group2.deps.json
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\bin\Debug\net8.0\ST10300512_Prog_POE_Group2.runtimeconfig.json
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\bin\Debug\net8.0\ST10300512_Prog_POE_Group2.dll
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\bin\Debug\net8.0\ST10300512_Prog_POE_Group2.pdb
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ST10300512_Prog_POE_Group2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ST10300512_Prog_POE_Group2.AssemblyInfoInputs.cache
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ST10300512_Prog_POE_Group2.AssemblyInfo.cs
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ST10300512_Prog_POE_Group2.csproj.CoreCompileInputs.cache
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ST10300512_Prog_POE_Group2.sourcelink.json
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ST10300512_Prog_POE_Group2.dll
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\refint\ST10300512_Prog_POE_Group2.dll
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ST10300512_Prog_POE_Group2.pdb
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ST10300512_Prog_POE_Group2.genruntimeconfig.cache
+C:\Users\bradl\source\repos\ST10300512_Prog_POE_Group2\obj\Debug\net8.0\ref\ST10300512_Prog_POE_Group2.dll
